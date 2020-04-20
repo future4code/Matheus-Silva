@@ -32,9 +32,9 @@ img {
 div>p:first-child {
     display: inline;
 }
-
 div img {
-    background: black;
+    width: 25px;
+    height: 15px;
 }
 
 .botao-amarelo {
