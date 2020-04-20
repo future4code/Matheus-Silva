@@ -38,6 +38,9 @@ div img {
 }
 
 .botao-amarelo {
+    position: absolute;
+    top: 50%;
+    left: 40%;
     background-color: #ffaf43;
     width: 250px;
     height: 40px;
@@ -53,6 +56,7 @@ div img {
 .container {
     height: 500px;
     text-align: center;
+    position: relative;
 }
 
 .icone {
@@ -77,6 +81,9 @@ div img {
 
 #container-para-comprar {
     background-color: #e7eb90;
+    display: block;
+    margin-left: auto;
+    margin-right: auto 
 }
 
 #container-para-comprar>p {
